@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ForceDel - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /D "_AFXDLL" /FR"Debug/" /Fp"Debug/ForceDel.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Administrator\HITCS-25\ForceDel\ForceDel.cpp"
+"C:\Documents and Settings\Administrator\HITCS-25\ForceDel\SystemInfo.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6.tmp" 
+Creating command line "link.exe /nologo /subsystem:console /incremental:yes /pdb:"Debug/ForceDel.pdb" /debug /machine:I386 /out:"Debug/ForceDel.exe" /pdbtype:sept  ".\Debug\ForceDel.obj" ".\Debug\SystemInfo.obj" ".\ntdll.lib" "
+<h3>Output Window</h3>
+Compiling...
+ForceDel.cpp
+SystemInfo.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+ForceDel.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
